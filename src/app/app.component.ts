@@ -33,7 +33,7 @@ export class AppComponent implements AfterViewInit {
       {
         id: 'label',
         label: 'Some text',
-        width: 78
+        width: 70
       },
       {
         id: '2',

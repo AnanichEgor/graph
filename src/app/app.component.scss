@@ -49,6 +49,7 @@ nz-graph {
 }
 
 :host::ng-deep #label div {
+  padding: 6px 0;
   color: inherit;
   background-color: transparent;
   border: 0 solid transparent;
